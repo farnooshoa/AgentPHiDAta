@@ -1,10 +1,10 @@
-# 🤖 AI Agents: Building Practical LLM-Powered Tools
+## AI Agents: Building Practical LLM-Powered Tools
 
 This repository contains hands-on examples and mini-projects that demonstrate how to build **AI agents** using **LLMs** (like OpenAI's GPT) and frameworks such as **LangChain** and **LangGraph**. These agents can perform real-world tasks like analyzing a codebase, reading files, calling tools, and even generating `README.md` files automatically.
 
 ---
 
-## 🚀 What You'll Learn
+##  What You'll Learn
 
 - How to design **LLM-powered agents** with memory, context, and tool usage
 - How to use **LangChain** and **LangGraph** to manage agent behavior
@@ -15,7 +15,7 @@ This repository contains hands-on examples and mini-projects that demonstrate ho
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python
 - OpenAI GPT API
@@ -23,7 +23,6 @@ This repository contains hands-on examples and mini-projects that demonstrate ho
 - LangGraph
 - Custom tools for file parsing and repository inspection
 
----
-
-## 📂 Project Structure
+## Credits
+Created by codebasics
 
